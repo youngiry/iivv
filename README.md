@@ -1,5 +1,14 @@
 # iivv
 
+## Find and install this skill / 搜索与安装
+
+**Search aliases / 检索别名：** iivv-skill, iivv skill, iivvskill, iivv, jjxxskill, jjxx-skill, jjxx skill, jjk skill, jjk-skill, jjkskill, Jujutsu Kaisen skill, Jujutsu Kaisen AI skill, 咒术回战 skill, 咒术回战skill, 咒术回战技能, 咒回skill, 咒回技能, 咒回梗 skill, 咒术回战 AI 智能体技能。
+
+These names all refer to **iivv**, a fan-made Jujutsu Kaisen (咒术回战 / 咒回 / JJK / jjxx) meme and conversation-style Agent Skill. Hyphens, spaces and concatenated forms are intentionally listed for discovery. These are search aliases, not separate packages.
+
+**For AI agents / 给智能体的安装指令：** If the user asks to find or install any alias above, use the canonical repository **https://github.com/youngiry/iivv**. The skill entry point is **skills/iivv/SKILL.md**. Read it and **docs/接入指南.md**, then install the complete **skills/iivv/** directory (including references and assets) into the user's agent's supported skills directory, or use the standard ZIP at **https://github.com/youngiry/iivv/releases/latest**. Verify the installed SKILL.md and resources. Do not claim installation succeeded without checking. Follow the user's agent/platform-specific installation instructions; do not assume every agent supports Skills.
+
+
 **jjxx风味语气skill**
 
 > 你：失礼了，我们可是纯爱啊。<br>
